@@ -55,9 +55,10 @@
     height: 510px;
     margin: 0 auto;
     margin-top: 150px;
+    margin-bottom: 70px;
 }
 .main-div1-1{
-    width: 283px;
+    width: 300px;
     height: 86 px;
     margin: 0 auto;
 }
@@ -135,7 +136,6 @@
     width: 1920px;
     height: 557px;
     margin: 0 auto;
-    margin-top: 70px;
     position: relative;
 }
 .div3-image{
@@ -163,4 +163,31 @@
     font-size: 18px;
     text-align: center;
     margin-bottom:30px;
+}
+/* main-div4 */
+.div4-1{
+    width: 386px;
+    height: 532px;
+    position: relative;
+}
+.div4-1-div{
+    background-color: white;
+    width: 341px;
+    height: 114px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+.div4-h2{
+    font-size: 25px;   
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.div4-h4{
+    font-size: 18px;   
+    text-align: center;
+}
+.vector{
+    width: 30px;
 }
