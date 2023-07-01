@@ -1,4 +1,4 @@
-/* header */
+/* HEADER */
 .header-div{
     width: 1200px;
     margin: 0 auto;
@@ -46,4 +46,82 @@
     width: 184px;
     height: 65px;
     background-color:rgba(107, 119, 229, 1);
+}
+/* MAIN*/
+
+/* div1-1 */
+.main-div1{
+    width: 1220px;
+    height: 510px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.main-div1-1{
+    width: 283px;
+    height: 86 px;
+    margin: 0 auto;
+}
+.div1-1-h2{
+    font-size: 40px;
+    text-align: center;
+}
+.div1-1-h3{
+    font-size: 18px;
+    text-align: center;
+}
+/* div1-2 */
+.main-div2{
+    width: 1220px;
+    height: 383px;
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-between;
+}
+.div2-1{
+    width: 386px;
+    background-color:rgba(244, 244, 244, 1);
+}
+.div2-1-h3{
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.div2-1-p1{
+    font-size: 18px;
+    text-align: center;
+}
+.div2-text{
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 58px;
+}
+.div2-1-p2{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 50px;
+}
+.div2-1-div{
+    width: 72px;
+    height: 72px;
+    margin: 0 auto;
+    background-color:rgba(64, 221, 182, 1) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+.div2-1-div-icon{
+    width: 43px;
+}
+.div2-1-div2{
+    width: 72px;
+    height: 72px;
+    margin: 0 auto;
+    background-color:rgba(107, 119, 229, 1) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 50px;
 }
