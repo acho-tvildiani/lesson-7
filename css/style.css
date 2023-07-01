@@ -68,7 +68,9 @@
 .div1-1-h3{
     font-size: 18px;
     text-align: center;
+    margin-bottom: 20px;
 }
+
 /* div1-2 */
 .main-div2{
     width: 1220px;
@@ -99,6 +101,7 @@
     font-size: 18px;
     text-align: center;
     margin-top: 50px;
+    color: rgba(107, 119, 229, 1);
 }
 .div2-1-div{
     width: 72px;
@@ -125,3 +128,5 @@
     margin-top: 10px;
     border-radius: 50px;
 }
+
+/* main-div2 */
