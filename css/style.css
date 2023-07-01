@@ -1,0 +1,49 @@
+/* header */
+.header-div{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+/* header logo */
+.header-logo{
+    display: flex;
+    width: 200px;
+    height: 38px;
+    justify-content: center;
+}
+.icon{
+    width:42px ;
+    height: 29px;
+}
+.logo-p{
+    font-size: 25px;
+}
+.logo-span{
+    color: rgba(107, 119, 229, 1);
+}
+.button{
+    color:white ;
+}
+/* header menu */
+.header-ul{
+    width: 825px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.header-menu{
+    width: 825px;
+    display: flex;
+    justify-content: space-between;
+}
+.header-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 184px;
+    height: 65px;
+    background-color:rgba(107, 119, 229, 1);
+}
