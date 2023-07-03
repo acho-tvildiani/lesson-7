@@ -1,11 +1,18 @@
 /* HEADER */
+.position{
+    width: 1200px;
+    margin-top: 50px;
+    margin: 0 auto;
+}
 .header-div{
     width: 1200px;
-    margin: 0 auto;
     margin-top: 50px;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
+    position: fixed;
+    z-index: 400;
+    top: 0px;
 }
 /* header logo */
 .header-logo{
