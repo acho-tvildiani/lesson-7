@@ -20,6 +20,9 @@
 }
 .logo-p{
     font-size: 25px;
+    font-family: 'Poppins';
+    font-weight: bold;
+    color: rgba(55, 57, 63, 1);
 }
 .logo-span{
     color: rgba(107, 119, 229, 1);
@@ -47,6 +50,13 @@
     height: 65px;
     background-color:rgba(107, 119, 229, 1);
 }
+.header-li{
+    font-family: 'Inter', sans-serif;
+    color: rgba(55, 57, 63, 1);
+}
+.button{
+    color: white;
+}
 /* MAIN*/
 
 /* div1-1 */
@@ -65,11 +75,18 @@
 .div1-1-h2{
     font-size: 40px;
     text-align: center;
+    font-family: 'Poppins';
+    font-weight: bold;
+    color: rgba(55, 57, 63, 1);
 }
 .div1-1-h3{
     font-size: 18px;
     text-align: center;
     margin-bottom: 20px;
+    font-family: 'Inter', sans-serif;
+    color: rgba(55, 57, 63, 1);
+
+
 }
 
 /* div1-2 */
@@ -88,10 +105,16 @@
     font-size: 25px;
     text-align: center;
     margin-bottom: 20px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    color:rgba(55, 57, 63, 1) ;
+
 }
 .div2-1-p1{
     font-size: 18px;
     text-align: center;
+    font-family: 'Inter', sans-serif;
+    color: rgba(125, 125, 125, 1);
 }
 .div2-text{
     width: 300px;
@@ -153,16 +176,24 @@
     font-size: 18px;
     text-align: center;
     margin-bottom:30px;
+    color: rgba(55, 57, 63, 1);
+    font-family: 'Inter', sans-serif;
 }
 .div3-h2{
     font-size: 40px;
     text-align: center;
     margin-bottom:30px;
+    font-weight: bold;
+    font-family: 'Poppins';
+    color: rgba(55, 57, 63, 1);
 }
 .div3-p{
     font-size: 18px;
     text-align: center;
     margin-bottom:30px;
+    font-family: 'Inter', sans-serif;
+    color: rgba(55, 57, 63, 1);
+
 }
 /* main-div4 */
 .div4-1{
@@ -183,10 +214,16 @@
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    font-family: 'Poppins';
+     color: rgba(55, 57, 63, 1);
+     font-weight: 600;
+
+
 }
 .div4-h4{
-    font-size: 18px;   
     text-align: center;
+    color: rgba(55, 57, 63, 1);
+    font-family: 'Inter', sans-serif;
 }
 .vector{
     width: 30px;
